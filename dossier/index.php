@@ -43,6 +43,6 @@
         }
 
     } else {
-        header('Location: contact.html');
+        header('Location: contact.php');
         die();
     }
